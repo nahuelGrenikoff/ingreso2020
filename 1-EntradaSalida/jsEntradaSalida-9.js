@@ -11,7 +11,5 @@ function mostrarAumento()
 
     importe = importe * 1.15;
 
-    document.getElementById("resultado").value = importe;
-    
-	
+    document.getElementById("resultado").value = importe;	
 }
