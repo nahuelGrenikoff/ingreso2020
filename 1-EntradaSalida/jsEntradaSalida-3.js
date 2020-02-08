@@ -6,5 +6,3 @@ function mostrar()
     nombre = document.getElementById("elNombre").value;
     alert("Su nombre ingresado es "+ nombre);
 }
-
-
